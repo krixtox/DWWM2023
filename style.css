@@ -1,20 +1,14 @@
-.div1{
-    display: flex;
-    
-    justify-content: center;
-
-}
-
-h1{
+.t1{
     width: 50%;
-    background-color: rgb(59, 59, 59);
+    background-color: whitesmoke;
+    color: #7bd5f5;
+    text-align: center;
+    border: solid 3px #7bd5f5;
+}
+.t2{
+    width: 50%;
+    background-color: #7bd5f5;
     color: whitesmoke;
     text-align: center;
-
-}
-h2{
-    width: 50%;
-    background-color: #dc143c;
-    color: whitesmoke;
-    text-align: center;
+    border: solid 3px whitesmoke;
 }
