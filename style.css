@@ -1,14 +1,29 @@
 .t1{
     width: 50%;
+    margin: 0 auto;
     background-color: whitesmoke;
     color: #7bd5f5;
     text-align: center;
     border: solid 3px #7bd5f5;
 }
+
 .t2{
     width: 50%;
+    margin: 0 auto;
     background-color: #7bd5f5;
     color: whitesmoke;
     text-align: center;
     border: solid 3px whitesmoke;
+}
+
+.div1{
+    width: 50%;
+    height: 250px;
+    margin: 0 auto;
+    line-height: 250px;
+    font-size: 50px;
+    background-image: linear-gradient(to right, #F9F295, #E0AA3E, #FAF398, #B88A44);;
+    color: #df1811;
+    text-align: center;
+    border: solid 3px #7bd5f5;
 }
